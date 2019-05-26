@@ -1,2 +1,4 @@
 # To-Do-List
-To do list 
+1. Clone/Download the files.
+2. Open index.html.
+
